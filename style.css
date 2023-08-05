@@ -74,10 +74,10 @@ background-image: url(./Images/covid.jpg);
 background-image: url(./Images/interior.jpg);}
 .Img3{
   background-size: cover;
-background-image: url(./Images/calculator.jpg);}
+background-image: url('./Images/calculator.jpg');}
 .Img4{
   background-size: cover;
-background-image: url(/Images/singer.jpg);}
+background-image: url("/Images/singer.jpg");}
 .Img5{
   background-size: cover;
 background-image: url(/Images/grade.jpg);}
