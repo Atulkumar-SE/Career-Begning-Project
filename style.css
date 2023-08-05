@@ -67,40 +67,32 @@ body p{
 }
 .Img1{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-vector/realistic-coronavirus-background_52683-46586.jpg?w=1060&t=st=1691261610~exp=1691262210~hmac=ab7634a05ab17027cca086d81daaac658200b0ba81c4b42ee12daf245088944f);
+background-image: url(/Images/covid.jpg);
 }
 .Img2{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/comfortable-sofa-illuminated-by-modern-electric-lamps-generated-by-ai_188544-11703.jpg?t=st=1691262082~exp=1691265682~hmac=837cb1d052d40d3904d140898a5e16aaa7d054abc39814cf29f5b824da51fd03&w=1380);
-}
+background-image: url(/Images/interior.jpg);}
 .Img3{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/top-view-school-supplies-assortment_23-2148913526.jpg?w=1380&t=st=1691262810~exp=1691263410~hmac=20662d6892908c7f77b59a28a48f5da57af64d83498d5b5ae5453edf4e2e2ca4);
-}
+background-image: url(/Images/calculator.jpg);}
 .Img4{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/young-caucasian-female-musician-performer-singing-dancing-neon-light-gradient_155003-44185.jpg?w=1060&t=st=1691263029~exp=1691263629~hmac=f0ce5f9fea798259386701357963ea64785c1b49497b0be9bf952e76eda442ab);
-}
+background-image: url(/Images/singer.jpg);}
 .Img5{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/successful-astronaut-got-first-prize-trophy-3d-rendering_460848-9673.jpg?w=1060&t=st=1691263755~exp=1691264355~hmac=f87c075e4960d77736ebbd3e5f79d791764dfc106390f2b261b05bb1d8d97c39);
-}
+background-image: url(/Images/grade.jpg);}
 .Img6{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/cityscape-with-little-planet-effect_1359-245.jpg?w=740&t=st=1691263863~exp=1691264463~hmac=edbae0348ce77ad46caa864cf82b1fce24eb67bb01a86b50959f032165eb1658);
-}
+background-image: url(/Images/mega.jpg);}
 .Img7{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/3d-elegant-green-geometrical-texture_23-2149168863.jpg?w=1380&t=st=1691264067~exp=1691264667~hmac=0b6e3e4dd22245e807a7a507c5aae2ed2e341c3065dcf8c38c369e0df9e284db);
-}
+background-image: url(/Images/pattern.jpg);}
 .Img8{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-photo/front-view-clock-bulbs-with-wooden-table_23-2148281048.jpg?w=1060&t=st=1691264211~exp=1691264811~hmac=1daf376be781969182d021b5f249d66556d9c882edbfc45f80affaf440b065fc);
-}
+background-image: url(/Images/clock.jpg);}
 .Img9{
   background-size: cover;
-  background-image: url(https://img.freepik.com/free-vector/landing-page-travel-with-image_23-2148359296.jpg?w=1060&t=st=1691264312~exp=1691264912~hmac=12dd5c285786443fb9cb2b8f0824cda18f70943e9ce3caf18403f066d4554e7a);
-}
+background-image: url(/Images//portfolio.jpg);}
 
 .Footer{
   height: 15vh;
